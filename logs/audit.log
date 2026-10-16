@@ -1,0 +1,19 @@
+2026-10-15 16:07:18 | INFO    | user=admin role=admin action=login status=success entity=- id=- ip=127.0.0.1 path=/api/auth/login msg=User 'admin' logged in
+2026-10-15 16:07:18 | INFO    | user=admin role=admin action=view_index status=success entity=- id=- ip=127.0.0.1 path=/ msg=Viewed de-identification console
+2026-10-15 16:07:20 | INFO    | user=admin role=admin action=admin_uploads_view status=success entity=- id=- ip=127.0.0.1 path=/admin/uploads msg=Viewed upload records (u='', s='')
+2026-10-15 16:07:24 | INFO    | user=admin role=admin action=download status=failed entity=- id=- ip=127.0.0.1 path=/download/sh1_deidentified.xlsx msg=File not found: sh1_deidentified.xlsx
+2026-10-15 16:07:24 | INFO    | user=admin role=admin action=view_index status=success entity=- id=- ip=127.0.0.1 path=/ msg=Viewed de-identification console
+2026-10-15 16:07:27 | INFO    | user=admin role=admin action=view_index status=success entity=- id=- ip=127.0.0.1 path=/ msg=Viewed de-identification console
+2026-10-15 16:07:31 | INFO    | user=admin role=admin action=dashboard status=info entity=- id=- ip=127.0.0.1 path=/dashboard msg=No prior dataset
+2026-10-15 16:07:31 | INFO    | user=admin role=admin action=view_index status=success entity=- id=- ip=127.0.0.1 path=/ msg=Viewed de-identification console
+2026-10-15 16:07:33 | INFO    | user=admin role=admin action=profile_view status=success entity=- id=- ip=127.0.0.1 path=/profile msg=Viewed own profile
+2026-10-15 16:07:34 | INFO    | user=admin role=admin action=admin_uploads_view status=success entity=- id=- ip=127.0.0.1 path=/admin/uploads msg=Viewed upload records (u='', s='')
+2026-10-15 16:07:36 | INFO    | user=admin role=admin action=admin_reports_view status=success entity=- id=- ip=127.0.0.1 path=/admin/reports msg=Viewed similarity reports (u='')
+2026-10-15 16:07:39 | INFO    | user=admin role=admin action=reid_view status=success entity=- id=- ip=127.0.0.1 path=/admin/reidentify msg=Viewed re-identification console (q='', kind='both')
+2026-10-15 16:07:40 | INFO    | user=admin role=admin action=mrip_registry_view status=success entity=- id=- ip=127.0.0.1 path=/admin/mrip-registry msg=Viewed MR/IP registry (q='', total=52)
+2026-10-15 16:07:42 | INFO    | user=admin role=admin action=audit_view status=success entity=- id=- ip=127.0.0.1 path=/audit msg=Viewed audit log (u='', a='', s='')
+2026-10-16 14:00:56 | INFO    | user=admin role=admin action=bootstrap status=success entity=user id=1 ip=- path=- msg=Seeded default users (admin, auditor, user)
+2026-10-16 14:01:30 | INFO    | user=admin role=admin action=login status=success entity=- id=- ip=127.0.0.1 path=/api/auth/login msg=User 'admin' logged in
+2026-10-16 14:01:30 | INFO    | user=admin role=admin action=view_index status=success entity=- id=- ip=127.0.0.1 path=/ msg=Viewed de-identification console
+2026-10-16 14:01:34 | INFO    | user=admin role=admin action=audit_view status=success entity=- id=- ip=127.0.0.1 path=/audit msg=Viewed audit log (u='', a='', s='')
+2026-10-16 14:01:43 | INFO    | user=- role=- action=logout status=success entity=- id=- ip=127.0.0.1 path=/logout msg=Session ended
